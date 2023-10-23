@@ -1,6 +1,6 @@
 [💪]=FB ID CLONING TOOL💪
 =[🎃]=RAJESH FREE TOOLS🔥
-=[🎂]=VERSION 0.0.4✅
+=[🎂]=VERSION 0.0.6✅
 =[🆓]=BD/IND/ Pak/WORKING🔥
 =[💉]=WIFI/DATA WORKING🥵
 =[🐯]=/FILE/CLONE📎
@@ -22,7 +22,7 @@ cd KING1
 
 git pull
 
-python rajesh.py
+python Rajesh.py
 
 
 
